@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d212f8ff-3270-4230-9089-602266b400f1" name="Default Changelist" comment="" />
+    <list default="true" id="d212f8ff-3270-4230-9089-602266b400f1" name="Default Changelist" comment="upload all bai tap">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lV8YvO63y3Mxoutzpw8HVTrVZa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -64,11 +72,35 @@
       <workItem from="1607675881181" duration="4616000" />
       <workItem from="1607695110609" duration="3249000" />
       <workItem from="1607737413794" duration="20319000" />
+      <workItem from="1607779026828" duration="180000" />
     </task>
+    <task id="LOCAL-00001" summary="upload all bai tap">
+      <created>1607779110587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607779110587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload all bai tap" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload all bai tap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
